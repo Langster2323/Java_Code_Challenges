@@ -1,6 +1,10 @@
 import java.io.Console;
 
  class Challenges {
+
+   public static void main(String[] args) {
+
+
    //Declared but not initialized...
    private int N;
    private int K;
@@ -14,4 +18,6 @@ import java.io.Console;
    private class averageHomeSalePrice {
      N < 1,000,000
    }
+
+ }
 }
