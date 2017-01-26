@@ -4,10 +4,10 @@ import java.io.Console;
 
    public static void main(String[] args) {
    //Declared but not initialized...
+   N[] N = new N[];
+   K[] K = new K[];
    private int N;
    private int K;
-   private int averageHomeSalePrice;
-
 
    public Challenges(int N, K) {
      this.N = N;
