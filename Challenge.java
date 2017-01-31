@@ -1,18 +1,15 @@
 import java.io.Console;
+import java.util.*;
 
  class Challenges {
 
    public static void main(String[] args) {
-   N[] N = new N[];
-   K[] K = new K[];
-   private int N;
-   private int K;
+     Scanner scan = new Scanner(System.in);
+     int N = scan.nextInt();
+     int K = scan.nextInt();
 
-   public Challenges(int N, K) {
-     this.N = N;
-     this.K = K;
+     System.out.println();
+     System.out.println();
+     System.out.println();
    }
-
-
- }
 }
